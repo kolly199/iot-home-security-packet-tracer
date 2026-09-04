@@ -50,7 +50,7 @@ Screenshots
 
 Home Siren Connected to Home Door
 
-![Home Siren Connected to Home Door](screenshots/01-home-siren-door.png)
+![Home Siren Connected to Home Door
 
 ---
 
